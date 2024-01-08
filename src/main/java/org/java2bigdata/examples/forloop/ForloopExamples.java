@@ -3,7 +3,7 @@ package org.java2bigdata.examples.forloop;
 public class ForloopExamples {
     public static void main(String[] args) {
 
-        //forloop
+        //forloop : all 3 parts of for loop are independent of each other and optional
 
       /*
 
