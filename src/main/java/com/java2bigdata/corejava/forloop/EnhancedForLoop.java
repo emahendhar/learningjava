@@ -1,4 +1,4 @@
-package com.java2bigdata.examples.forloop;
+package com.java2bigdata.corejava.forloop;
 
 public class EnhancedForLoop {
 

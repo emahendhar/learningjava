@@ -1,4 +1,4 @@
-package com.java2bigdata.examples;
+package com.java2bigdata.corejava;
 
 public class Main {
     public static void main(String[] args) {
