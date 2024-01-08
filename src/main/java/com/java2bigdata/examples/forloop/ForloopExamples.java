@@ -1,4 +1,4 @@
-package org.java2bigdata.examples.forloop;
+package com.java2bigdata.examples.forloop;
 
 public class ForloopExamples {
     public static void main(String[] args) {

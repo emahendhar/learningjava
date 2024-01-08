@@ -1,4 +1,4 @@
-package org.java2bigdata.examples.breakcontinue;
+package com.java2bigdata.examples.breakcontinue;
 
 public class BreakContinueExamples {
 
