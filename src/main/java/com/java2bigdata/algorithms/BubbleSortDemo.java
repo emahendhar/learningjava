@@ -3,8 +3,7 @@ package com.java2bigdata.algorithms;
 public class BubbleSortDemo {
 
     public static void print(int[] input){
-        for (int i:input
-             ) {
+        for (int i:input) {
             System.out.print(i +" ");
         }
     }
