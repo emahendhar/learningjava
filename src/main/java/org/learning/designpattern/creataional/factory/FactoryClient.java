@@ -7,5 +7,10 @@ public class FactoryClient {
         ShapeFactory circlef = new CircleFactory();
         Shape sc= circlef.createShape();
         sc.draw();
+
+
+        ShapeFactory squaref = new SqureFactory();
+        Shape sq = squaref.createShape();
+        sq.draw();
     }
 }
